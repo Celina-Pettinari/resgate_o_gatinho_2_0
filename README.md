@@ -12,7 +12,7 @@ Foi corrigido principalmente a movimentação do gatinho.
   
 <br>
 
-não aconselho usar um campo menor que 5 e, por motivo de tamanho, não consegui testar campos maior que 9;  
+não aconselho usar um campo menor que 5 e, por motivo de tamanho, não consegui testar campos grandes;  
 
 <br>
 
